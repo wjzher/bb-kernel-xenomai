@@ -91,4 +91,6 @@ untar_pkg
 pkg="modules"
 untar_pkg
 
-
+# firmware
+pkg="firmware"
+untar_pkg
