@@ -92,5 +92,5 @@ pkg="modules"
 untar_pkg
 
 # firmware
-pkg="firmware"
-untar_pkg
+#pkg="firmware"
+#untar_pkg
