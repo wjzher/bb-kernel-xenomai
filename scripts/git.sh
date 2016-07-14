@@ -233,7 +233,7 @@ git_xenomai () {
 	git commit --allow-empty -a -m 'empty cleanup commit'
 
 	git reset --hard HEAD
-	git checkout v2.6.3 -f
+	git checkout v2.6.4 -f
 
 	# No need to pull latest git now that the officially released and tagged
 	# version of xenomai works with the BeagleBone

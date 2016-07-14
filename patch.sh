@@ -1149,7 +1149,7 @@ xenomai () {
 	git apply "${DIR}/ignore/xenomai/ksrc/arch/arm/patches/beaglebone/ipipe-core-3.8.13-beaglebone-pre.patch"
 
 	# Apply ipipe patch
-	git apply "${DIR}/ignore/xenomai/ksrc/arch/arm/patches/ipipe-core-3.8.13-arm-3.patch"
+	git apply "${DIR}/ignore/xenomai/ksrc/arch/arm/patches/ipipe-core-3.8.13-arm-4.patch"
 
 	# Apply post patch
 	git apply "${DIR}/ignore/xenomai/ksrc/arch/arm/patches/beaglebone/ipipe-core-3.8.13-beaglebone-post.patch"
