@@ -1,8 +1,8 @@
 #!/bin/sh -e
 DIR=$PWD
 
-DST=/media/boot
-DSR=/media/rootfs
+DST=/media/zhe/boot
+DSR=/media/zhe/rootfs
 if [ x"$1" = x"" ] ; then
 	echo "Not input sd card boot dir, use default ${DST}"
 else
