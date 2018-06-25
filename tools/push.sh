@@ -17,7 +17,7 @@ fi
 if [ x"$2" = x"" ] ; then
 	echo "Not input sd card rootfs dir, use default ${DSR}"
 else
-	DST=$2
+	DSR=$2
 fi
 
 if [ ! -d ${DSR} ] ; then
